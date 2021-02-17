@@ -37,12 +37,14 @@
 
 ## ngrok
 
+<p>
 <img alt="build status" src="https://img.shields.io/github/workflow/status/KhushrajRathod/ngrok/Deno?label=checks" >
 <img alt="language" src="https://img.shields.io/github/languages/top/KhushrajRathod/ngrok" >
 <img alt="code size" src="https://img.shields.io/github/languages/code-size/KhushrajRathod/ngrok">
 <img alt="issues" src="https://img.shields.io/github/issues/KhushrajRathod/ngrok" >
 <img alt="license" src="https://img.shields.io/github/license/KhushrajRathod/ngrok">
 <img alt="version" src="https://img.shields.io/github/v/release/KhushrajRathod/ngrok">
+</p>
 
 <b><a href="https://github.com/KhushrajRathod/ngrok">View on GitHub</a></b> -- <b><a href="https://deno.land/x/ngrok">View on deno.land</a></b>
 
@@ -50,12 +52,14 @@
 
 ## hcload
 
+<p>
 <img alt="build status" src="https://img.shields.io/github/workflow/status/KhushrajRathod/hcload/Deno?label=checks" >
 <img alt="language" src="https://img.shields.io/github/languages/top/KhushrajRathod/hcload" >
 <img alt="code size" src="https://img.shields.io/github/languages/code-size/KhushrajRathod/hcload">
 <img alt="issues" src="https://img.shields.io/github/issues/KhushrajRathod/hcload" >
 <img alt="license" src="https://img.shields.io/github/license/KhushrajRathod/hcload">
 <img alt="version" src="https://img.shields.io/github/v/release/KhushrajRathod/hcload">
+</p>
 
 <b><a href="https://github.com/KhushrajRathod/hcload">View on GitHub</a></b> -- <b><a href="https://deno.land/x/hcload">View on deno.land</a></b>
 
@@ -65,12 +69,14 @@
 
 ## retried
 
+<p>
 <img alt="build status" src="https://img.shields.io/github/workflow/status/KhushrajRathod/retried/Deno?label=checks" >
 <img alt="language" src="https://img.shields.io/github/languages/top/KhushrajRathod/retried" >
 <img alt="code size" src="https://img.shields.io/github/languages/code-size/KhushrajRathod/retried">
 <img alt="issues" src="https://img.shields.io/github/issues/KhushrajRathod/retried" >
 <img alt="license" src="https://img.shields.io/github/license/KhushrajRathod/retried">
 <img alt="version" src="https://img.shields.io/github/v/release/KhushrajRathod/retried">
+</p>
 
 - Description: Abstraction for exponential and custom retry strategies for failed operations. 
 - Original module: [retry](https://www.npmjs.com/package/retry)
@@ -80,12 +86,14 @@
 
 ## pQueue
 
+<p>
 <img alt="build status" src="https://img.shields.io/github/workflow/status/KhushrajRathod/pQueue/Deno?label=checks" >
 <img alt="language" src="https://img.shields.io/github/languages/top/KhushrajRathod/pQueue" >
 <img alt="code size" src="https://img.shields.io/github/languages/code-size/KhushrajRathod/pQueue">
 <img alt="issues" src="https://img.shields.io/github/issues/KhushrajRathod/pQueue" >
 <img alt="license" src="https://img.shields.io/github/license/KhushrajRathod/pQueue">
 <img alt="version" src="https://img.shields.io/github/v/release/KhushrajRathod/pQueue">
+</p>
 
 <b><a href="https://github.com/KhushrajRathod/pQueue">View on GitHub</a></b> -- <b><a href="https://deno.land/x/p_queue">View on deno.land</a></b>
 
@@ -94,12 +102,14 @@
 
 ## pRetried
 
+<p>
 <img alt="build status" src="https://img.shields.io/github/workflow/status/KhushrajRathod/pRetried/Deno?label=checks" >
 <img alt="language" src="https://img.shields.io/github/languages/top/KhushrajRathod/pRetried" >
 <img alt="code size" src="https://img.shields.io/github/languages/code-size/KhushrajRathod/pRetried">
 <img alt="issues" src="https://img.shields.io/github/issues/KhushrajRathod/pRetried" >
 <img alt="license" src="https://img.shields.io/github/license/KhushrajRathod/pRetried">
 <img alt="version" src="https://img.shields.io/github/v/release/KhushrajRathod/pRetried">
+</p>
 
 <b><a href="https://github.com/KhushrajRathod/pRetried">View on GitHub</a></b> -- <b><a href="https://deno.land/x/p_retried">View on deno.land</a></b>
 
@@ -108,12 +118,14 @@
 
 ## pTimeout
 
+<p>
 <img alt="build status" src="https://img.shields.io/github/workflow/status/KhushrajRathod/pTimeout/Deno?label=checks" >
 <img alt="language" src="https://img.shields.io/github/languages/top/KhushrajRathod/pTimeout" >
 <img alt="code size" src="https://img.shields.io/github/languages/code-size/KhushrajRathod/pTimeout">
 <img alt="issues" src="https://img.shields.io/github/issues/KhushrajRathod/pTimeout" >
 <img alt="license" src="https://img.shields.io/github/license/KhushrajRathod/pTimeout">
 <img alt="version" src="https://img.shields.io/github/v/release/KhushrajRathod/pTimeout">
+</p>
 
 <b><a href="https://github.com/KhushrajRathod/pTimeout">View on GitHub</a></b> -- <b><a href="https://deno.land/x/p_timeout">View on deno.land</a></b>
 
@@ -122,12 +134,14 @@
 
 ## Finity
 
+<p>
 <img alt="build status" src="https://img.shields.io/github/workflow/status/KhushrajRathod/finity/Deno?label=checks" >
 <img alt="language" src="https://img.shields.io/github/languages/top/KhushrajRathod/Finity" >
 <img alt="code size" src="https://img.shields.io/github/languages/code-size/KhushrajRathod/Finity">
 <img alt="issues" src="https://img.shields.io/github/issues/KhushrajRathod/Finity" >
 <img alt="license" src="https://img.shields.io/github/license/KhushrajRathod/Finity">
 <img alt="version" src="https://img.shields.io/github/v/release/KhushrajRathod/Finity">
+</p>
 
 <b><a href="https://github.com/KhushrajRathod/Finity">View on GitHub</a></b> -- <b><a href="https://deno.land/x/finity">View on deno.land</a></b>
 
@@ -138,12 +152,14 @@
 
 ## ee-ts
 
+<p>
 <img alt="build status" src="https://img.shields.io/github/workflow/status/KhushrajRathod/ee-ts/Deno?label=checks" >
 <img alt="language" src="https://img.shields.io/github/languages/top/KhushrajRathod/ee-ts" >
 <img alt="code size" src="https://img.shields.io/github/languages/code-size/KhushrajRathod/ee-ts">
 <img alt="issues" src="https://img.shields.io/github/issues/KhushrajRathod/ee-ts" >
 <img alt="license" src="https://img.shields.io/github/license/KhushrajRathod/ee-ts">
 <img alt="version" src="https://img.shields.io/github/v/release/KhushrajRathod/ee-ts">
+</p>
 
 <b><a href="https://github.com/KhushrajRathod/ee-ts">View on GitHub</a></b> -- <b><a href="https://deno.land/x/ee_ts">View on deno.land</a></b>
 
