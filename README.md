@@ -1,16 +1,15 @@
 <div align="center">
-    <img src="assets/logo.png" width="350" height="350" alt="trains between usb and usb port abstract illustration">
+    <img src="assets/logo.png" width="350" height="350" alt="package with deno icon on bottom left">
     <h1>Deno modules</h1>
     <p>
         <b>A complete list of all the Deno modules I've made / ported</b>
     </p>
     <p>
         <img alt="runtime - deno" src="https://img.shields.io/badge/runtime-deno-brightgreen" >
-        <img alt="total - 8" src="https://img.shields.io/badge/total-8-blue" >
+        <img alt="total - 7" src="https://img.shields.io/badge/total-7-blue" >
         <img alt="written from scratch - 2" src="https://img.shields.io/badge/written%20from%20scratch-2-blue" >
         <img alt="rewrites - 1" src="https://img.shields.io/badge/rewrites-1-blue" >
         <img alt="ports - 4" src="https://img.shields.io/badge/ports-4-blue">
-        <img alt="repacks - 1" src="https://img.shields.io/badge/repacks-1-blue" >
     </p>
     <br>
     <br>
@@ -30,8 +29,6 @@
     - [pRetried](#pRetried)
     - [pTimeout](#pTimeout)
     - [Finity](#Finity)
-- Repacks
-    - [ee-ts](#ee-ts)
 
 # Written from Scratch
 
@@ -147,21 +144,3 @@
 
 - Description: A finite state machine library with a friendly configuration DSL.
 - Original module: [finity](https://www.npmjs.com/package/finity)
-
-# Repacks
-
-## ee-ts
-
-<p>
-<img alt="build status" src="https://img.shields.io/github/workflow/status/KhushrajRathod/ee-ts/Deno?label=checks" >
-<img alt="language" src="https://img.shields.io/github/languages/top/KhushrajRathod/ee-ts" >
-<img alt="code size" src="https://img.shields.io/github/languages/code-size/KhushrajRathod/ee-ts">
-<img alt="issues" src="https://img.shields.io/github/issues/KhushrajRathod/ee-ts" >
-<img alt="license" src="https://img.shields.io/github/license/KhushrajRathod/ee-ts">
-<img alt="version" src="https://img.shields.io/github/v/release/KhushrajRathod/ee-ts">
-</p>
-
-<b><a href="https://github.com/KhushrajRathod/ee-ts">View on GitHub</a></b> -- <b><a href="https://deno.land/x/ee_ts">View on deno.land</a></b>
-
-- Description: Type-safe event emitters
-- Original module: [ee-ts](https://www.npmjs.com/package/ee-ts)
