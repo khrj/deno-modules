@@ -11,6 +11,9 @@
         <img alt="rewrites - 1" src="https://img.shields.io/badge/rewrites-1-blue" >
         <img alt="ports - 4" src="https://img.shields.io/badge/ports-4-blue">
     </p>
+    <p>
+        <b><a href="https://github.com/KhushrajRathod/Blueprint">View Blueprint</a></b>
+    </p>
     <br>
     <br>
     <br>
