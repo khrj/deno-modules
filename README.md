@@ -25,6 +25,7 @@
 - Written from scratch
     - [ngrok](#ngrok)
     - [hcload](#hcload)
+    - [TypedEventTarget](#TypedEventTarget)
 - Rewrites
     - [retried](#retried)
 - Ports
@@ -64,6 +65,21 @@
 <b><a href="https://github.com/KhushrajRathod/hcload">View on GitHub</a></b> -- <b><a href="https://deno.land/x/hcload">View on deno.land</a></b>
 
 - Description: Easily upload files to the [Hack club](https://hackclub.com) CDN
+
+## TypedEventTarget
+
+<p>
+<img alt="build status" src="https://img.shields.io/github/workflow/status/KhushrajRathod/TypedEventTarget/Deno?label=checks" >
+<img alt="language" src="https://img.shields.io/github/languages/top/KhushrajRathod/TypedEventTarget" >
+<img alt="code size" src="https://img.shields.io/github/languages/code-size/KhushrajRathod/TypedEventTarget">
+<img alt="issues" src="https://img.shields.io/github/issues/KhushrajRathod/TypedEventTarget" >
+<img alt="license" src="https://img.shields.io/github/license/KhushrajRathod/TypedEventTarget">
+<img alt="version" src="https://img.shields.io/github/v/release/KhushrajRathod/TypedEventTarget">
+</p>
+
+<b><a href="https://github.com/KhushrajRathod/TypedEventTarget">View on GitHub</a></b> -- <b><a href="https://deno.land/x/typed_event_target">View on deno.land</a></b>
+
+- Description: Strictly typed EventTarget for Deno and the Browser
 
 # Rewrites
 
