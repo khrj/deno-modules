@@ -94,6 +94,8 @@
 <img alt="version" src="https://img.shields.io/github/v/release/KhushrajRathod/retried">
 </p>
 
+<b><a href="https://github.com/KhushrajRathod/retried">View on GitHub</a></b> -- <b><a href="https://deno.land/x/retried">View on deno.land</a></b>
+
 - Description: Abstraction for exponential and custom retry strategies for failed operations. 
 - Original module: [retry](https://www.npmjs.com/package/retry)
 - Changes: Deno, TypeScript, ES6+
