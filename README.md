@@ -22,17 +22,29 @@
 
 # Table of Contents
 
-- Written from scratch
+- [Deno Slack SDK](#deno-slack-sdk)
+- [Written from scratch](#written-from-scratch)
     - [ngrok](#ngrok)
     - [hcload](#hcload)
     - [TypedEventTarget](#TypedEventTarget)
-- Rewrites
+- [Rewrites](#rewrites)
     - [retried](#retried)
-- Ports
+- [Ports](#ports)
     - [pQueue](#pQueue)
     - [pRetried](#pRetried)
     - [pTimeout](#pTimeout)
     - [Finity](#Finity)
+
+# Deno Slack SDK
+
+<p>
+    <img alt="runtime - deno" src="https://img.shields.io/badge/runtime-deno-brightgreen">
+    <img alt="total - 8" src="https://img.shields.io/badge/total-8-blue">
+    <img alt="typescript - 100%" src="https://img.shields.io/badge/typescript-100%25-blue"> 
+</p>
+
+<b><a href="https://github.com/slack-deno/deno-slack-sdk">View on GitHub</a></b>
+
 
 # Written from Scratch
 
