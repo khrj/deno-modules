@@ -5,9 +5,10 @@
         <b>A complete list of all the Deno modules I've made / ported</b>
     </p>
     <p>
-        <img alt="runtime - deno" src="https://img.shields.io/badge/runtime-deno-brightgreen" >
-        <img alt="total - 7" src="https://img.shields.io/badge/total-7-blue" >
-        <img alt="written from scratch - 2" src="https://img.shields.io/badge/written%20from%20scratch-2-blue" >
+        <img alt="runtime - deno" src="https://img.shields.io/badge/runtime-deno-brightgreen?logo=deno" >
+        <img alt="total - 17" src="https://img.shields.io/badge/total-17-blue">
+        <img alt="Deno Slack SDK - 8" src="https://img.shields.io/badge/Deno%20Slack%20SDK-8-blue?logo=slack">
+        <img alt="written from scratch - 4" src="https://img.shields.io/badge/written%20from%20scratch-4-blue" >
         <img alt="rewrites - 1" src="https://img.shields.io/badge/rewrites-1-blue" >
         <img alt="ports - 4" src="https://img.shields.io/badge/ports-4-blue">
     </p>
@@ -26,14 +27,14 @@
 - [Written from scratch](#written-from-scratch)
     - [ngrok](#ngrok)
     - [hcload](#hcload)
-    - [TypedEventTarget](#TypedEventTarget)
+    - [TypedEventTarget](#typedeventtarget)
 - [Rewrites](#rewrites)
     - [retried](#retried)
 - [Ports](#ports)
-    - [pQueue](#pQueue)
-    - [pRetried](#pRetried)
-    - [pTimeout](#pTimeout)
-    - [Finity](#Finity)
+    - [pQueue](#pqueue)
+    - [pRetried](#pretried)
+    - [pTimeout](#ptimeout)
+    - [Finity](#finity)
 
 # Deno Slack SDK
 
