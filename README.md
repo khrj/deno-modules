@@ -28,6 +28,7 @@
     - [ngrok](#ngrok)
     - [hcload](#hcload)
     - [TypedEventTarget](#typedeventtarget)
+    - [getReleaseURL](#getreleaseurl)
 - [Rewrites](#rewrites)
     - [retried](#retried)
 - [Ports](#ports)
@@ -93,6 +94,21 @@
 <b><a href="https://github.com/KhushrajRathod/TypedEventTarget">View on GitHub</a></b> -- <b><a href="https://deno.land/x/typed_event_target">View on deno.land</a></b>
 
 - Description: Strictly typed EventTarget for Deno and the Browser
+
+## getReleaseURL
+
+<p>
+<img alt="build status" src="https://img.shields.io/github/workflow/status/KhushrajRathod/getReleaseURL/Deno?label=checks" >
+<img alt="language" src="https://img.shields.io/github/languages/top/KhushrajRathod/getReleaseURL" >
+<img alt="code size" src="https://img.shields.io/github/languages/code-size/KhushrajRathod/getReleaseURL">
+<img alt="issues" src="https://img.shields.io/github/issues/KhushrajRathod/getReleaseURL" >
+<img alt="license" src="https://img.shields.io/github/license/KhushrajRathod/getReleaseURL">
+<img alt="version" src="https://img.shields.io/github/v/release/KhushrajRathod/getReleaseURL">
+</p>
+
+<b><a href="https://github.com/KhushrajRathod/getReleaseURL">View on GitHub</a></b> -- <b><a href="https://deno.land/x/get_release_url">View on deno.land</a></b>
+
+- Description: Get the latest release URL from any hosting provider. Supports pattern matching
 
 # Rewrites
 
